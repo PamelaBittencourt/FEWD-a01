@@ -20,4 +20,4 @@ I started a Web Development course at San Diego Continue Education (SDCE) to exp
 * Receive a Certificate in Web Developer
 * Apply to Mesa College
 
-With your help I will be able to get a transfer to San Diego Mesa College and earn a [Certificate of Achievement in Web Design](http://www.sdmesa.edu/academics/academic-programs/web-development.shtml).
+With your help I will be able to get a transfer to San Diego Mesa College and earn a [Certificate of Achievement in Web Design](http://www.sdmesa.edu/academics/academic-programs/web-development.shtml)
